@@ -21,7 +21,7 @@
 
 // ⚠️ ضع رابط الـ Worker هنا بعد النشر (مثل: https://blogpush-cors.username.workers.dev)
 // إن تركته فارغاً، سيعطل التطبيق ويُرجع خطأ واضح
-const BLOGPUSH_WORKER_URL = ''; // اتركه فارغاً — المستخدم يضع الرابط في js/api.js
+const BLOGPUSH_WORKER_URL = 'https://blogpush-cors.abdallahabasabish.workers.dev/'; // اتركه فارغاً — المستخدم يضع الرابط في js/api.js
 
 /**
  * منطق الـ Worker نفسه (يُنسخ لـ Cloudflare):
